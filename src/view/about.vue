@@ -27,6 +27,10 @@
       Kami percaya bahwa parfum bukan hanya wangi,
       tetapi identitas dan kepercayaan diri.
     </p>
+    <p>
+      Temukan koleksi parfum mewah kami yang dirancang
+      untuk memikat indera Anda dan meninggalkan kesan tak terlupakan.
+    </p>
 
     <button class="btn-grad">Explore Collection</button>
   </div>
