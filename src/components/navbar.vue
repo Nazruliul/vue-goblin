@@ -6,10 +6,8 @@ import router from '../router';
 <template>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/navbar">Navbar</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2LzSiqIDk5k7JRanjYR0DKjwwa-EX__kvw&s" alt="Logo" width="40" height="35" class="d-inline-block align-text-top"/>
+      
     <div class="collapse navbar-collapse" id="navbarNav">
       
       <ul class="navbar-nav">
@@ -25,6 +23,5 @@ import router from '../router';
       </ul>
     </div>
   </div>
-  
-</nav>
+  </nav>
 </template>

@@ -28,7 +28,7 @@
       tetapi identitas dan kepercayaan diri.
     </p>
 
-    <button class="gold-btn">Explore Collection</button>
+    <button class="btn-grad">Explore Collection</button>
   </div>
 
   <img src="https://images.unsplash.com/photo-1615634260167-c8cdede054de"/>
