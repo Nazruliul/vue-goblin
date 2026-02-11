@@ -64,18 +64,21 @@ export default {
         {
           id: 1,
           name: "Royal Gold",
+          color: "Gold",
           price: "350.000",
           image: "https://images.unsplash.com/photo-1541643600914-78b084683601"
         },
         {
           id: 2,
           name: "Black Essence",
+          color: "Gold",
           price: "420.000",
           image: "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539"
         },
         {
           id: 3,
           name: "Midnight Luxe",
+          color: "Gold",
           price: "390.000",
           image: "https://images.unsplash.com/photo-1615634260167-c8cdede054de"
         }
@@ -113,7 +116,7 @@ export default {
 /* BUTTON */
 .gold-btn {
   background: gold;
-  color: black;
+  color: rgb(0, 0, 0);
   border: none;
   padding: 12px 24px;
   margin-top: 10px;

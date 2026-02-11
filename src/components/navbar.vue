@@ -17,7 +17,7 @@ import router from '../router';
           <router-link class="nav-link active" aria-current="page" to="/" exact>Home</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/student" exact>Student</router-link>
+          <router-link class="nav-link" to="/shop" exact>Shop</router-link>
         </li>
         <li class="nav-item">
           <router-link class="nav-link" to="/about" exact>About</router-link>
